@@ -66,7 +66,7 @@ public class Locators {
 		 * *
 		 * } }
 		 */
-
+        //fetch all links
 		List<WebElement> featureLinks = driver
 				.findElements(By.xpath("//div[@class='container']/ul[@class='nav nav-tabs']/li"));
 		// System.out.println("Number of Feature Tabs: " + featureLinks.size());
