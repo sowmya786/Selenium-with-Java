@@ -63,7 +63,7 @@ public class Locators {
 		 * } finally { driver.quit(); }
 		 * 
 		 * // driver.close(); }
-		 * 
+		 * *
 		 * } }
 		 */
 
